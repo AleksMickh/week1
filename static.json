@@ -5,11 +5,10 @@
       "Access-Control-Allow-Origin": "*"
     }
   }
-}
-{
+  "https_only": true
   "routes": {
-    "/": "index.html"
-    "/login/": "login/login.html"
+    "/": "index.html",
+    "/login/": "login/login.html",
     "/sample/": "sample/sample.html"
   }
 }  
