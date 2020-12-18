@@ -6,8 +6,8 @@
     }
   }
   "routes": {
-  "/": "index.html"
-  "/login/": "login/login.html"
-  "/sample/": "sample/sample.html"
+    "/": "index.html"
+    "/login/": "login/login.html"
+    "/sample/": "sample/sample.html"
   }
 }
