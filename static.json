@@ -3,6 +3,11 @@
     "/*": {
       "X-Author": "aleksmickh",
       "Access-Control-Allow-Origin": "*"
-    }   
+    }
+  }
+  "routes": {
+  "/": "index.html"
+  "/login/": "login/login.html"
+  "/sample/": "sample/sample.html"
   }
 }
