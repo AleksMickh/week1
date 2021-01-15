@@ -2,7 +2,7 @@
   "https_only": true,
   "headers": {
     "/*": {
-      "X-Author": "poli8512",
+      "X-Author": "aleksmickh",
       "Access-Control-Allow-Origin": "*"
     },
     "/login/": {
