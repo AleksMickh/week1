@@ -12,6 +12,5 @@
     "/login/": "login/login.html",
     "/sample/": "sample/sample.html",
     "/promise/": "promise/promise.html",
-    "/fetch/": "fetch/fetch.html"
   }
 }  
